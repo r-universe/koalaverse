@@ -1,0 +1,14 @@
+[
+  {
+    "package": "KraljicMatrix",
+    "oncran": true
+  },
+  {
+    "package": "sure",
+    "oncran": true
+  },
+  {
+    "package": "vip",
+    "oncran": true
+  }
+]
