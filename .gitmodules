@@ -8,11 +8,6 @@
 	url = https://github.com/koalaverse/kraljicmatrix
 	shallow = true
 	registered = true
-[submodule "sure"]
-	path = sure
-	url = https://github.com/koalaverse/sure
-	shallow = true
-	registered = true
 [submodule "vip"]
 	path = vip
 	url = https://github.com/koalaverse/vip
