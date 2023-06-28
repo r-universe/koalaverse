@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "KraljicMatrix"]
 	path = KraljicMatrix
 	url = https://github.com/koalaverse/kraljicmatrix
-	shallow = true
-	registered = true
 [submodule "sure"]
 	path = sure
 	url = https://github.com/koalaverse/sure
-	shallow = true
-	registered = true
 [submodule "vip"]
 	path = vip
 	url = https://github.com/koalaverse/vip
-	shallow = true
-	registered = true
