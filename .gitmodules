@@ -5,6 +5,3 @@
 [submodule "KraljicMatrix"]
 	path = KraljicMatrix
 	url = https://github.com/koalaverse/kraljicmatrix
-[submodule "vip"]
-	path = vip
-	url = https://github.com/koalaverse/vip
